@@ -261,5 +261,9 @@ var hienThiThongTinSinhVIen1 = function () {
     console.log('Trâm code, hiển thị thông tin sinh viên');
 }
 
+<<<<<<< HEAD
 //tạo nhánh mới trong git
 // git checkout -b tên_nhánh
+=======
+// trước khi chuyển nhánh thì nhớ commit
+>>>>>>> TanBranch
