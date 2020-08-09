@@ -248,3 +248,9 @@ for( var index = mangSinhVien.length-1; index >=0 ; index-- ){
     }
     // lấy dữ liệu ra khi load trang
     layDuLieuLocalStorage();
+
+
+    
+var hienThiThongTinSinhVIen = function () {
+    console.log('Tấn code, hiển thị thông tin sinh viên');
+}
