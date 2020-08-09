@@ -249,6 +249,7 @@ for( var index = mangSinhVien.length-1; index >=0 ; index-- ){
     // lấy dữ liệu ra khi load trang
     layDuLieuLocalStorage();
 
-    var hienThiThongTinSinhVien = function(){
+    var hienThiThongTinSinhVien1 = function(){
         console.log('Hien thi thong tin sinh vien')
     }
+    
