@@ -260,3 +260,5 @@ var hienThiThongTinSinhVIen = function () {
 var hienThiThongTinSinhVIen1 = function () {
     console.log('Trâm code, hiển thị thông tin sinh viên');
 }
+
+// trước khi chuyển nhánh thì nhớ commit
