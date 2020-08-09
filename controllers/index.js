@@ -256,3 +256,7 @@ var hienThiThongTinSinhVIen = function () {
 }
 
 //Tấn comment - test
+
+var hienThiThongTinSinhVIen1 = function () {
+    console.log('Trâm code, hiển thị thông tin sinh viên');
+}
