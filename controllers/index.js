@@ -253,3 +253,11 @@ for( var index = mangSinhVien.length-1; index >=0 ; index-- ){
         console.log('Hien thi thong tin sinh vien')
     }
     
+// git checkout -b dev A  
+// naỳ là tạo nhanh nè
+// git push -u  origin [tenNhanh tao luc nay]  tạo nhánh trên sever
+// git pull origin [tenNhanh] pull nhanh ve
+/// git branch   xem nhanh
+ var f_Thang = function (){
+     console.log("thang")
+ }
