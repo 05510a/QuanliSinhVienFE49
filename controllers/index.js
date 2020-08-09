@@ -258,3 +258,7 @@ var hienThiThongTinSinhVIen = function () {
 var hienThiThongTinSinhVIen1 = function () {
     console.log('Trâm code, hiển thị thông tin sinh viên');
 }
+
+var f_devB = function() {
+    console.log('devB')
+}
