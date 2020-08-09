@@ -254,3 +254,5 @@ for( var index = mangSinhVien.length-1; index >=0 ; index-- ){
 var hienThiThongTinSinhVIen = function () {
     console.log('Tấn code, hiển thị thông tin sinh viên');
 }
+
+//Tấn comment - test
