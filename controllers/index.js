@@ -261,3 +261,12 @@ for( var index = mangSinhVien.length-1; index >=0 ; index-- ){
  var f_Thang = function (){
      console.log("thang")
  }
+var hienThiThongTinSinhVIen = function () {
+    console.log('Tấn code, hiển thị thông tin sinh viên');
+}
+
+//Tấn comment - test
+
+var hienThiThongTinSinhVIen1 = function () {
+    console.log('Trâm code, hiển thị thông tin sinh viên');
+}
