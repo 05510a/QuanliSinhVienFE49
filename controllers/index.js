@@ -258,6 +258,7 @@ for( var index = mangSinhVien.length-1; index >=0 ; index-- ){
 // git push -u  origin [tenNhanh tao luc nay]  tạo nhánh trên sever
 // git pull origin [tenNhanh] pull nhanh ve
 /// git branch   xem nhanh
+// git checkout tenNhanh  chuyen nhanh
  var f_Thang = function (){
      console.log("thang")
  }
