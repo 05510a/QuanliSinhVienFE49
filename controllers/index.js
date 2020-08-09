@@ -260,3 +260,6 @@ var hienThiThongTinSinhVIen = function () {
 var hienThiThongTinSinhVIen1 = function () {
     console.log('Trâm code, hiển thị thông tin sinh viên');
 }
+
+//tạo nhánh mới trong git
+// git checkout -b tên_nhánh
